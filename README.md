@@ -1,32 +1,50 @@
-# <a href="https://www.linkedin.com/in/alexanderbolden/">Alex Bolden</a>'s IT and Cybersecurity Project Portfolio 🔐
+# 👋 Hey, I’m Alexander Bolden
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I'm a truck driver and cybersecurity professional, bringing discipline, precision, and a strong work ethic into the world of Vulnerability Management, GRC Compliance, and PCI-DSS auditing. I’m currently in a cybersecurity internship focused on vulnerability and control validation, and I’ve previously completed a PCI-DSS internship where I worked hands-on with audit prep, remediation, and compliance checklists.
 
+Everything I build is anchored in real-world expectations, with a focus on solving problems, documenting processes, and delivering results.
 
-## ⚠️ Vulnerability Management Projects
+## 🚧 Current Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/agbolden/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+🛠 [PCI-DSS Windows Hardening Lab](https://github.com/agbolden/pci-dss-hardening-lab)  
+Simulating a compliance audit environment using registry changes, Group Policy edits, and PowerShell automation.
 
-## 🚨 Threat Hunting and Security Operations
+🔍 [Vulnerability Management Program Implementation](https://github.com/agbolden/vulnerability-management-program)  
+Covers scanning, triage, remediation planning, and reporting in a structured, job-ready format.
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+⚙️ [Programmatic Remediation Scripts (PowerShell/Bash)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)  
+Automated scripts to address common misconfigurations and vulnerabilities across systems.
 
-<hr/>
+## 🧠 Skills I'm Developing as a Security Analyst
 
-## 🤳 Connect With Me
+**Vulnerability and Risk Management**  
+- Running scans and identifying weaknesses  
+- Applying STIGs and documenting remediation  
+- Building workflows from detection to fix  
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+**Compliance and Audit Readiness**  
+- Validating PCI-DSS controls and collecting evidence  
+- Writing remediation reports and internal audit checklists  
+- Identifying control gaps and simulating real audit scenarios  
 
-[twitter]: https://twitter.com/___________
-[youtube]: https://youtube.com/@alexboldenpcidss?si=5YK9zHLnxE-AxK0c
-[instagram]: https://www.instagram.com/bigalbolden
-[linkedin]: https://linkedin.com/in/alexanderbolden
+**Tooling and Automation**  
+- PowerShell scripting for secure configuration and automation  
+- Working in VM environments to test remediations safely  
+- Creating documentation for GRC and compliance processes  
 
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+## 🚀 Mission Statement
+
+I’m actively building my cybersecurity career while still in the trucking industry, with internship experience in both PCI-DSS and vulnerability management. My goal is to contribute to security teams by delivering real-world value through hands-on projects, automation, and compliance-driven work.
+
+## 🎓 Certifications
+
+- CompTIA Security+  
+- Microsoft Certified: Identity & Access Administrator  
+- CyberArk Defender (Level 1)  
+
+## 📫 Let’s Connect
+
+[LinkedIn](https://linkedin.com/in/alexanderbolden)  
+[YouTube](https://youtube.com/@alexboldenpcidss?si=5YK9zHLnxE-AxK0c)  
+[Instagram](https://www.instagram.com/bigalbolden)  
+TikTok: **@TruckToTech**
